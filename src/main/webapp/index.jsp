@@ -33,6 +33,6 @@
 <body>
 <h1>Hello World!</h1>
 <p>Welcome to the Office CRUD Management</p>
-<a href="office-list">Go to Office Listings</a>
+<a href="product-list">Go to Office Listings</a>
 </body>
 </html>
